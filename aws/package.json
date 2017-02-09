@@ -1,0 +1,8 @@
+{
+  "name": "AWS",
+  "version": "0.0.0",
+  "main": "CreateInstance.js",
+  "devDependencies": {
+      "aws-sdk": "2.7.28"		
+  }
+}
