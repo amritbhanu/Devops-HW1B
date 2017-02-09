@@ -36,7 +36,7 @@ ansible-playbook playbook.yml -i inventory
 ```
 
 ## ScreenCast
-[Server Provisioning] ()
+[Server Provisioning] (https://youtu.be/tCKbhdsxuwE)
 
 ## Concept Questions
 1. What are some benefits of continuous integration?
